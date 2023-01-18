@@ -12,7 +12,7 @@ import CoreData
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func xxx() {
-        print("xxx")
+        print("YYY")
     }
 
     func yyy() {
